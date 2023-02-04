@@ -1,2 +1,3 @@
 # Desktop-Assistant-Yudhishthar
-AI-based Voice assistant incorporated with 30+ different functions like Price Drop Alerts, Certificate generator, Finding location of place, Games, Security Surveillance and motion detection, Weather Report and many more.  Different modules such as Wolfram Alpha, Subprocess, Pyttsx3, Speech Recognition, Ecapture, Twilio were used.
+Yudhishthar is an AI-based voice assistant incorporated with 30+ different functions like Price Drop Alerts, Certificate Generator, Finding Location of a Particular Place, Games, Security Surveillance and Motion Detection, Weather Report and many more. 
+The different modules used are : Wolfram Alpha, Subprocess, Pyttsx3, Speech Recognition, Ecapture, Twilio, Tkinter, Pyautogui, Autoit, OpenCV, ect. were used.
